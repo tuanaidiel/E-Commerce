@@ -4,12 +4,6 @@ A modern and responsive full-stack e-commerce web application built using the ME
 
 ---
 
-## 📸 Preview
-
-![E-Commerce Preview](./ecommerce-preview.png)
-
----
-
 ## 🔧 Tech Stack
 
 ### 🖥️ Frontend
